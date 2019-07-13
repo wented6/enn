@@ -1,6 +1,6 @@
-﻿token=
-owner=
-prefix=
-game=
+token=NTk5NDE4MTczMzgwNjI0Mzg1.XSk52g.ZSCmV72LLLNvVdaQyj8zSxmZEds
+owner=538676483455975431
+prefix=E
+game=Eplay
 stayinchannel=true
 songinstatus=false
